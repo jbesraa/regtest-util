@@ -1,0 +1,15 @@
+[package]
+name = "pjregtest"
+version = "0.1.1"
+edition = "2021"
+authors = ["jbesraa jbesraa@gmail.com"]
+license = "MIT OR Apache-2.0"
+description = "A simple binary that starts a bitcoin regtest with funded wallets"
+readme = "README.md"
+keywords = ["bitcoin", "regtest", "test"]
+categories = ["bitcoin", "regtest", "test"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bitcoincore-rpc = "0.18.0"
