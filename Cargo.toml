@@ -1,6 +1,6 @@
 [package]
-name = "pjregtest"
-version = "0.1.1"
+name = "regtest-util"
+version = "0.1.0"
 edition = "2021"
 authors = ["jbesraa jbesraa@gmail.com"]
 license = "MIT OR Apache-2.0"
