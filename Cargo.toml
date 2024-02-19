@@ -8,8 +8,7 @@ description = "A simple binary that starts a bitcoin regtest with funded wallets
 readme = "README.md"
 keywords = ["bitcoin", "regtest", "test"]
 categories = ["bitcoin", "regtest", "test"]
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+repository = "https://github.com/jbesraa/regtest-util"
 
 [dependencies]
 bitcoincore-rpc = "0.18.0"
